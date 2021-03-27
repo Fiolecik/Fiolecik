@@ -28,6 +28,9 @@
 
 ---
 <img align="left" alt="Purple's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fiolecik&show_icons=true&hide_border=true" />
+
+---
+
 ### Languages and Tools
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.dribbble.com/users/340052/screenshots/2436746/icon-dribbble_1x.png" >Visual Studio Code</img>
 - <img align="left" alt="Visual Studio 2019" width="26px" src="https://d1u7j79bg1ays7.cloudfront.net/blog/wp-content/uploads/2019/01/visual-studio-2019.png">Visual Studio 2019</img>
