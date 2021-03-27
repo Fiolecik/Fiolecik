@@ -34,6 +34,5 @@
 
 
 ---
-<img align="left" alt="Purple's GitHub Stats" src="https://github-readme-stats-gamma-lac.vercel.app
-/api?username=Fiolecik&show_icons=true&hide_border=true" />  
+<img align="left" alt="Purple's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fiolecik&show_icons=true&hide_border=true" />  
 
