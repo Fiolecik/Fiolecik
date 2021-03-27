@@ -14,6 +14,11 @@
 
 ### Latest Youtube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Nin Online - Punkplayinggames](https://www.youtube.com/watch?v=gsVLyk1XYqs)
+- [Nin Online - Punkplayinggames 2](https://www.youtube.com/watch?v=zKk67t62YyI)
+- [HotS - Some Matches for fun 2](https://www.youtube.com/watch?v=bMTysjg9bg4)
+- [HotS - Some Matches for fun](https://www.youtube.com/watch?v=ld2RXs8rRgk)
+- [Nin online bear hunt](https://www.youtube.com/watch?v=G2q8-kxZSxQ)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
