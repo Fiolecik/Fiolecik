@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCItH16WRPq7CDVM8TYNTaoA">Youtube</a>  
 <a href="www.linkedin.com/in/dawid-koźmin">Linkedin</a>
 
-### Latest Blog Posts:
+### Latest Youtube Videos:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
